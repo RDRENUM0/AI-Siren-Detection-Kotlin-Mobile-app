@@ -1,4 +1,4 @@
-# Siren Detector 🚨
+# AI Siren Detector 🚨
 
 Aplikacja na Androida służąca do automatycznego wykrywania dźwięku syren alarmowych (policja, straż pożarna, karetki) w czasie rzeczywistym.
 
