@@ -12,6 +12,12 @@ Projekt wykorzystuje mikrofon urządzenia do analizy otoczenia i powiadamiania u
 * Wsparcie dla osób niesłyszących i niedosłyszących.
 * Bezpieczeństwo kierowców (wyciszanie muzyki po wykryciu syreny - opcjonalnie).
 
+## 📱 Wizualizacja (Screeny)
+
+<p align="center">
+  <img src="22.jpg" width="30%" alt="Screen aplikacji 1" style="margin-right: 10px;">
+  <img src="33.jpg" width="30%" alt="Screen aplikacji 2">
+</p>
 
 ## 🛠️ Technologie
 * **Język:** Kotlin
