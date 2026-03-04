@@ -3,6 +3,9 @@
 Aplikacja na Androida służąca do automatycznego wykrywania dźwięku syren alarmowych (policja, straż pożarna, karetki) w czasie rzeczywistym.
 
 ## 📝 Opis projektu
+
+Aplikacja wykonana w ramach dodatkowego projektu na przedmiot Algorytmy Przetwarzania Sygnałów.
+
 Projekt wykorzystuje mikrofon urządzenia do analizy otoczenia i powiadamiania użytkownika, gdy w pobliżu zostanie zidentyfikowany charakterystyczny sygnał dźwiękowy służb ratunkowych. 
 
 **Główne zastosowania:**
