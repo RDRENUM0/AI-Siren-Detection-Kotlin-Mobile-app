@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Tło główne, gdy idle -->
+    <color name="background_idle">#FF2E2E2E</color>       <!-- ciemnoszary -->
+
+    <!-- Tło główne, gdy nasłuchujemy (delikatny gradient w kodzie lub jednolity kolor) -->
+    <color name="background_listening">#FF1E6D36</color>  <!-- ciemniejsza zieleń -->
+
+    <!-- Tło główne, gdy wykryto syrenę -->
+    <color name="background_detected">#FFB71C1C</color>   <!-- ciemnoczerwona/bordowa -->
+
+    <!-- Status idle (tekst) -->
+    <color name="status_text_idle">#FFDDDDDD</color>      <!-- jasnoszary -->
+
+    <!-- Status listening (tekst) -->
+    <color name="status_text_listening">#FFFFFFFF</color> <!-- biały -->
+
+    <!-- Status detected (tekst) -->
+    <color name="status_text_detected">#FFFFFFFF</color>  <!-- biały -->
+
+    <!-- CardView tło statusu -->
+    <color name="card_bg">#CC000000</color>  <!-- półprzezroczyste czarne -->
+
+    <!-- FFT tło -->
+    <color name="fft_bg">#FF121212</color>   <!-- prawie czarne -->
+
+    <!-- VolumeMeter tło -->
+    <color name="meter_bg">#FF1B5E20</color> <!-- ciemnozielony -->
+
+    <!-- Bar FFT -->
+    <color name="fft_bar_color">#FF81C784</color> <!-- jasnozielony -->
+
+    <!-- Przycisk start -->
+    <color name="button_start_bg">#FF43A047</color>  <!-- zielony -->
+
+    <!-- Przycisk stop -->
+    <color name="button_stop_bg">#FFE53935</color>   <!-- czerwony -->
+
+    <!-- EditText tło/obramowanie -->
+    <color name="edittext_stroke">#FF888888</color>  <!-- szary obramowanie -->
+
+    <!-- Idle przyciski tekst -->
+    <color name="button_text">#FFFFFFFF</color>      <!-- biały -->
+</resources>
